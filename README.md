@@ -29,9 +29,7 @@ A simple project demonstrating how to create and style colored markers using HTM
 - Copy or adapt the marker CSS classes to your own projects.
 
 ## Example
-
-![Screenshot of CSS Color Markers](https://github.com/Iramkazi06/markers/raw/main/example.png)
-*(Replace with an actual screenshot if available)*
+![Screenshot 2025-07-03 003208](https://github.com/user-attachments/assets/469098ff-ec02-4627-8b43-e054cb15a0d9)
 
 ## License
 
